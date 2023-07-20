@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: 'r2dbc:h2:${user.dir}/kafka'
+    driverClassName: org.h2.Driver
+    username: root
+    password: e1Y+4kb{pOYb%~<hgtF"nFuS!!>,(
+
